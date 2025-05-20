@@ -1,3 +1,3 @@
-javascript
-var myVar = "Hola, mundo". ;
---
+``` javascript
+var myVar = "Hello, world!";
+```
